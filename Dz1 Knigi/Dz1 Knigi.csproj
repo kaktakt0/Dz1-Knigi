@@ -91,8 +91,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Файлы\" />
+    <Content Include="Файлы\Authors.txt" />
+    <Content Include="Файлы\Books.txt" />
+    <Content Include="Файлы\Genres.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

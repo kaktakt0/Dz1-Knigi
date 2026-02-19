@@ -4,7 +4,6 @@ using System.Linq;
 using System.ComponentModel;
 using System.Windows.Forms;
 using Dz1_Knigi.Классы;
-
 namespace Dz1_Knigi
 {
     public partial class Bookshop : Form
