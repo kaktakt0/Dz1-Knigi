@@ -17,7 +17,6 @@ namespace Dz1_Knigi
             InitializeComponent();
             LoadData();
         }
-
         private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
 

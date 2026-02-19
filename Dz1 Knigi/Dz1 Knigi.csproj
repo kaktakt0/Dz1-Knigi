@@ -93,9 +93,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="Файлы\Authors.txt" />
-    <Content Include="Файлы\Books.txt" />
-    <Content Include="Файлы\Genres.txt" />
+    <Content Include="Files\Authors.txt" />
+    <Content Include="Files\Books.txt" />
+    <Content Include="Files\Genres.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
